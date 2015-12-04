@@ -1,0 +1,1 @@
+define("view/about/index",[],function(){function e(){}return e.prototype.el="<h1>this is about page</h1>",e}),define("view/common/header",[],function(e){function n(){}return n.prototype.el="<h1>this is a head</h1>",n}),define("view/home/index",[],function(){function e(){}return e.prototype.el="<h1>this is home page</h1>",e});
